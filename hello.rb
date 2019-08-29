@@ -1,5 +1,5 @@
-def hello
-  puts "Hello World"
+def hello(name)
+  puts "Hello, #{name}!"
 end
 
-hello
+hello("Home Chef 🍽")
