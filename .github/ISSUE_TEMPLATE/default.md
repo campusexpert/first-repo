@@ -1,7 +1,7 @@
 ---
 name: Default
 about: Standard issue in a sprint
-title: "[ISSUE NUMBER] title"
+title: "title"
 labels: ''
 assignees: ''
 
